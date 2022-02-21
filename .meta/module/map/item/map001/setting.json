@@ -1,0 +1,110 @@
+{
+  "data": {
+    "box": {
+      "base": {
+        "__OBJ_TYPE": "SkyBoxStatic",
+        "back": {
+          "selector": "editor/BlockEmpty/asset/Texture/SkyBox/Common2/Sky03_back.png"
+        },
+        "bottom": {
+          "selector": "editor/BlockEmpty/asset/Texture/SkyBox/Common2/Sky03_bottom.png"
+        },
+        "front": {
+          "selector": "editor/BlockEmpty/asset/Texture/SkyBox/Common2/Sky03_front.png"
+        },
+        "left": {
+          "selector": "editor/BlockEmpty/asset/Texture/SkyBox/Common2/Sky03_left.png"
+        },
+        "right": {
+          "selector": "editor/BlockEmpty/asset/Texture/SkyBox/Common2/Sky03_right.png"
+        },
+        "top": {
+          "selector": "editor/BlockEmpty/asset/Texture/SkyBox/Common2/Sky03_top.png"
+        }
+      }
+    },
+    "instances": [
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/e61e9cb3-2e59-4e86-93b7-1f86bc8594cd",
+        "id": "8511780589419102209",
+        "name": "pizzaHouse",
+        "position": {
+          "x": 31.721343994141,
+          "y": 53.0,
+          "z": 7.7661428451538
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/f292b5df-120b-46ca-b241-4d11ab6f7a99",
+        "id": "8511787310162378753",
+        "name": "pizzaNPC",
+        "position": {
+          "x": 30.931625366211,
+          "y": 53.4,
+          "z": 14.19277381897
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/7a84edf1-728c-43b7-a7d6-34171ece85bf",
+        "id": "8511792154511179777",
+        "name": "house",
+        "position": {
+          "x": 21.36067199707,
+          "y": 52.982437133789,
+          "z": 42.038925170898
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/7a84edf1-728c-43b7-a7d6-34171ece85bf",
+        "id": "8511792366560329729",
+        "name": "house",
+        "position": {
+          "x": 8.4078512191772,
+          "y": 53.000007629395,
+          "z": 27.680166244507
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/7a84edf1-728c-43b7-a7d6-34171ece85bf",
+        "id": "8511792537133350913",
+        "name": "house",
+        "position": {
+          "x": 11.233024597168,
+          "y": 53.0,
+          "z": 53.893852233887
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/7a84edf1-728c-43b7-a7d6-34171ece85bf",
+        "id": "8511792710105006081",
+        "name": "house",
+        "position": {
+          "x": 36.105281829834,
+          "y": 53.000289916992,
+          "z": 51.808876037598
+        },
+        "rotation": {
+          "y": 180.0
+        }
+      }
+    ],
+    "name": {
+      "value": "map_map001"
+    },
+    "touch_pos": {
+      "up": 600
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "418f6cdeaf26b220f30c3d57048464b2"
+    },
+    "VERSION": "0.18"
+  }
+}

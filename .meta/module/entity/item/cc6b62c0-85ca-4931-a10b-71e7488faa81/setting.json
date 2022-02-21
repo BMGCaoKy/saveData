@@ -1,0 +1,22 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/npc/g2042_npc_pizza.actor",
+      "selector": "editor/Dream World function/asset/npc/g2042_npc_pizza.actor"
+    },
+    "girlactor": {
+      "asset": ""
+    },
+    "hideName": true,
+    "name": {
+      "value": "entity_cc6b62c0-85ca-4931-a10b-71e7488faa81"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "a4784d98807939cec4eeea63ecf55291",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.18"
+  }
+}

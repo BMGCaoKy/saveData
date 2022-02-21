@@ -1,0 +1,30 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/pizzaHouse/g2020_house_pizza.actor",
+      "selector": "editor/Dream World function/asset/pizzaHouse/g2020_house_pizza.actor"
+    },
+    "boundingVolume": {
+      "params": {
+        "x": 10,
+        "y": 10,
+        "z": 5
+      }
+    },
+    "collision": true,
+    "girlactor": {
+      "asset": ""
+    },
+    "hideName": true,
+    "name": {
+      "value": "entity_e61e9cb3-2e59-4e86-93b7-1f86bc8594cd"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "800c5ae8513c3f5ca4d201301f1b6fdd",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.18"
+  }
+}

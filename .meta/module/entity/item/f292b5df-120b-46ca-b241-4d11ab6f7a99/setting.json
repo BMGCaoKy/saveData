@@ -1,0 +1,23 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/pizzaNPC/g2042_pet_furniture_pizza.actor",
+      "selector": "editor/Dream World function/asset/pizzaNPC/g2042_pet_furniture_pizza.actor"
+    },
+    "collision": true,
+    "girlactor": {
+      "asset": ""
+    },
+    "hideName": true,
+    "name": {
+      "value": "entity_f292b5df-120b-46ca-b241-4d11ab6f7a99"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "55f35389e677bf714b297e884909d7af",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.18"
+  }
+}

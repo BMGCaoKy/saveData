@@ -1,0 +1,23 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/HOUSE/g2044_1020_homegroup04.actor",
+      "selector": "editor/Dream World function/asset/HOUSE/g2044_1020_homegroup04.actor"
+    },
+    "canClick": true,
+    "collision": true,
+    "girlactor": {
+      "asset": ""
+    },
+    "name": {
+      "value": "entity_7a84edf1-728c-43b7-a7d6-34171ece85bf"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "9b7abb50b35ec07b5ae7f96ee06c831b",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.18"
+  }
+}
